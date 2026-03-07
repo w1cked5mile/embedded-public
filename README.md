@@ -1,6 +1,6 @@
 # arduino public
 
-Arduino Public repository
+Electronics Public repository
 
 ## License
 This project is licensed under the MIT License.
