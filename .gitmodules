@@ -1,0 +1,6 @@
+[submodule "ESP32Marauder"]
+	path = ESP32Marauder
+	url = https://github.com/justcallmekoko/ESP32Marauder.git
+[submodule "Hackers-Nightlight"]
+	path = Hackers-Nightlight
+	url = https://github.com/hak5peaks/Hackers-Nightlight.git
